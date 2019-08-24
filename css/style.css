@@ -62,12 +62,11 @@ header,
 .nav-pills > li > a.active {
   background-color: transparent!important;
   color: #ffcdd2!important;
-  border: 0px!important;
+  border-bottom: 4px solid #ffcdd2!important;
   border-radius: 0%!important;
   transform: scale(1.1);
   transition: 0.3s;
   font-weight: bold;
-  text-shadow: 0 0 15px #ffcdd2, 0 0 10px #ffcdd2;
 }
 
 .mobile-pills > li > a.active  {
